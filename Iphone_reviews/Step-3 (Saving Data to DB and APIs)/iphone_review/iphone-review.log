@@ -1,0 +1,314 @@
+2022-02-05 16:13:15,822:INFO:home.log_manager:Request Started
+2022-02-05 16:13:15,828:INFO:home.log_manager:color:red,style_name:128GB
+2022-02-05 16:13:15,829:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:13:15,830:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:13:15,841:INFO:home.log_manager:
+2022-02-05 16:13:15,841:INFO:home.log_manager:Request Completed with Status:200
+2022-02-05 16:14:15,456:INFO:home.log_manager:Request Started
+2022-02-05 16:14:15,456:INFO:home.log_manager:color:black,style_name:128GB
+2022-02-05 16:14:15,458:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:14:15,458:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:14:15,464:INFO:home.log_manager:
+2022-02-05 16:14:15,758:INFO:home.log_manager:Request Completed with Status:200
+2022-02-05 16:14:29,895:INFO:home.log_manager:Request Started
+2022-02-05 16:14:29,895:INFO:home.log_manager:color:(PRODUCT)RED,style_name:128GB
+2022-02-05 16:14:29,895:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:14:29,895:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:14:29,895:INFO:home.log_manager:
+2022-02-05 16:14:29,903:INFO:home.log_manager:Request Completed with Status:200
+2022-02-05 16:14:36,780:INFO:home.log_manager:Request Started
+2022-02-05 16:14:36,780:INFO:home.log_manager:color:red,style_name:128GB
+2022-02-05 16:14:36,780:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:14:36,780:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:14:36,788:INFO:home.log_manager:
+2022-02-05 16:14:36,788:INFO:home.log_manager:Request Completed with Status:200
+2022-02-05 16:14:38,196:INFO:home.log_manager:Request Started
+2022-02-05 16:14:38,218:INFO:home.log_manager:color:red,style_name:128GB
+2022-02-05 16:14:38,218:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:14:38,219:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:14:38,224:INFO:home.log_manager:
+2022-02-05 16:14:38,227:INFO:home.log_manager:Request Completed with Status:200
+2022-02-05 16:14:45,663:INFO:home.log_manager:Request Started
+2022-02-05 16:14:45,663:INFO:home.log_manager:color:red,style_name:64GB
+2022-02-05 16:14:45,663:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:14:45,663:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:14:45,673:INFO:home.log_manager:
+2022-02-05 16:14:45,680:INFO:home.log_manager:Request Completed with Status:200
+2022-02-05 16:15:45,691:INFO:home.log_manager:Request Started
+2022-02-05 16:15:45,695:INFO:home.log_manager:color:red,style_name:64GB
+2022-02-05 16:15:45,695:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:15:45,695:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:15:45,700:INFO:home.log_manager:
+2022-02-05 16:15:45,700:INFO:home.log_manager:Request Completed with Status:200
+2022-02-05 16:15:55,670:INFO:home.log_manager:Request Started
+2022-02-05 16:15:55,672:INFO:home.log_manager:color:RED,style_name:64GB
+2022-02-05 16:15:55,672:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:15:55,673:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:15:55,677:INFO:home.log_manager:
+2022-02-05 16:15:55,677:INFO:home.log_manager:Request Completed with Status:200
+2022-02-05 16:32:19,142:INFO:home.log_manager:Request Started
+2022-02-05 16:32:19,143:INFO:home.log_manager:color:RED,style_name:64GB
+2022-02-05 16:32:19,145:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:32:19,146:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:32:19,147:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:32:19,156:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:32:19,157:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:32:25,946:INFO:home.log_manager:Request Started
+2022-02-05 16:32:25,946:INFO:home.log_manager:color:blue,style_name:64GB
+2022-02-05 16:32:25,946:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:32:25,946:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:32:25,946:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:32:25,955:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:32:25,956:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:33:07,439:INFO:home.log_manager:Request Started
+2022-02-05 16:33:07,440:INFO:home.log_manager:color:,style_name:64GB
+2022-02-05 16:33:07,441:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:33:07,441:ERROR:home.log_manager:Missing Parameters
+2022-02-05 16:33:07,442:INFO:home.log_manager:found:True,out:{'status': 400, 'message': 'Missing request parameter color', 'data': None}
+2022-02-05 16:41:30,181:INFO:home.log_manager:Request Started
+2022-02-05 16:41:30,183:INFO:home.log_manager:color:blue,style_name:64GB
+2022-02-05 16:41:30,183:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:41:30,183:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:41:30,183:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:41:30,183:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:41:30,183:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:41:30,183:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:41:30,183:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Blue'
+               and style_name = '64GB' 
+2022-02-05 16:41:30,191:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:41:30,199:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:41:30,199:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:41:49,592:INFO:home.log_manager:Request Started
+2022-02-05 16:41:49,594:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:41:49,594:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:41:49,600:INFO:home.log_manager:Analysing Sentiments of the review...
+2022-02-05 16:41:49,616:INFO:home.log_manager:Review Dataframe:  color                                             review  ... style_name  verified_purchase
+0  Blue  This phone needs too much optimisation aim ass...  ...       64GB  Verified Purchase
+
+[1 rows x 6 columns]
+2022-02-05 16:41:49,618:INFO:home.log_manager:Creating columns in dataframe : Negative, Neutral, Positive, Compound
+2022-02-05 16:41:49,642:INFO:home.log_manager:Assigining Values to those columns after calculation
+2022-02-05 16:41:49,651:INFO:home.log_manager:Sentiment Analysed...
+2022-02-05 16:41:49,651:INFO:home.log_manager:Analysis Completed
+2022-02-05 16:41:49,651:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:45:12,023:INFO:home.log_manager:Request Started
+2022-02-05 16:45:12,024:INFO:home.log_manager:color:red,style_name:64GB
+2022-02-05 16:45:12,025:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:45:12,025:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:45:12,027:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:45:12,028:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:45:12,030:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:45:12,032:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:45:12,033:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = '(PRODUCT)RED'
+               and style_name = '64GB' 
+2022-02-05 16:45:12,041:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:45:12,043:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:45:12,044:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:45:24,453:INFO:home.log_manager:Request Started
+2022-02-05 16:45:24,454:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:45:24,454:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:45:24,458:INFO:home.log_manager:Analysing Sentiments of the review...
+2022-02-05 16:45:24,470:INFO:home.log_manager:Review Dataframe:          color                                             review  ... style_name  verified_purchase
+0  (PRODUCT)RED  Worst battery performance.\nIphone 11 is far b...  ...       64GB  Verified Purchase
+
+[1 rows x 6 columns]
+2022-02-05 16:45:24,471:INFO:home.log_manager:Creating columns in dataframe : Negative, Neutral, Positive, Compound
+2022-02-05 16:45:24,481:INFO:home.log_manager:Assigining Values to those columns after calculation
+2022-02-05 16:45:24,488:INFO:home.log_manager:Sentiment Analysed...
+2022-02-05 16:45:24,488:INFO:home.log_manager:Analysis Completed
+2022-02-05 16:45:24,488:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:46:27,072:INFO:home.log_manager:Request Started
+2022-02-05 16:46:27,073:INFO:home.log_manager:color:black,style_name:128GB
+2022-02-05 16:46:27,073:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:46:27,073:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:46:27,073:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:46:27,073:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:46:27,073:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:46:27,073:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:46:27,073:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Black'
+               and style_name = '128GB' 
+2022-02-05 16:46:27,081:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:46:27,081:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:46:27,087:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:46:43,784:INFO:home.log_manager:Request Started
+2022-02-05 16:46:43,787:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:46:43,788:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:46:43,789:INFO:home.log_manager:Analysing Sentiments of the review...
+2022-02-05 16:46:43,824:INFO:home.log_manager:Review Dataframe:   color                                             review  ... style_name  verified_purchase
+0  Black  Hello there,\nI am writing this review after 3...  ...      128GB  Verified Purchase
+
+[1 rows x 6 columns]
+2022-02-05 16:46:43,824:INFO:home.log_manager:Creating columns in dataframe : Negative, Neutral, Positive, Compound
+2022-02-05 16:46:43,890:INFO:home.log_manager:Assigining Values to those columns after calculation
+2022-02-05 16:46:43,898:INFO:home.log_manager:Sentiment Analysed...
+2022-02-05 16:46:43,906:INFO:home.log_manager:Analysis Completed
+2022-02-05 16:46:43,907:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:47:41,699:INFO:home.log_manager:Request Started
+2022-02-05 16:47:41,699:INFO:home.log_manager:color:white,style_name:128GB
+2022-02-05 16:47:41,700:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:47:41,700:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:47:41,701:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:47:41,701:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:47:41,702:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:47:41,702:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:47:41,702:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'White'
+               and style_name = '128GB' 
+2022-02-05 16:47:41,707:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:47:41,707:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:47:41,707:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:48:00,872:INFO:home.log_manager:Request Started
+2022-02-05 16:48:00,873:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:48:00,874:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:48:00,874:INFO:home.log_manager:Analysing Sentiments of the review...
+2022-02-05 16:48:00,890:INFO:home.log_manager:Review Dataframe:   color                                             review  ... style_name  verified_purchase
+0  White  Amazing iPhone, worthy update\nhave to buy a t...  ...      128GB  Verified Purchase
+
+[1 rows x 6 columns]
+2022-02-05 16:48:00,890:INFO:home.log_manager:Creating columns in dataframe : Negative, Neutral, Positive, Compound
+2022-02-05 16:48:00,915:INFO:home.log_manager:Assigining Values to those columns after calculation
+2022-02-05 16:48:00,923:INFO:home.log_manager:Sentiment Analysed...
+2022-02-05 16:48:00,923:INFO:home.log_manager:Analysis Completed
+2022-02-05 16:48:00,923:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:49:58,700:INFO:home.log_manager:Request Started
+2022-02-05 16:49:58,700:INFO:home.log_manager:color:black,style_name:128GB
+2022-02-05 16:49:58,701:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:49:58,701:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:49:58,703:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:49:58,703:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:49:58,704:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:49:58,706:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:49:58,706:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Black'
+               and style_name = '128GB' 
+2022-02-05 16:49:58,711:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:49:58,714:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:49:58,715:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:50:39,452:INFO:home.log_manager:Request Started
+2022-02-05 16:50:39,453:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:50:39,453:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:50:39,459:INFO:home.log_manager:Analysing Sentiments of the review...
+2022-02-05 16:50:39,471:INFO:home.log_manager:Review Dataframe:   color                                             review  ... style_name  verified_purchase
+0  Black  This phone is little bit expensive and the bad...  ...      128GB  Verified Purchase
+
+[1 rows x 6 columns]
+2022-02-05 16:50:39,472:INFO:home.log_manager:Creating columns in dataframe : Negative, Neutral, Positive, Compound
+2022-02-05 16:50:39,486:INFO:home.log_manager:Assigining Values to those columns after calculation
+2022-02-05 16:50:39,493:INFO:home.log_manager:Sentiment Analysed...
+2022-02-05 16:50:39,495:INFO:home.log_manager:Analysis Completed
+2022-02-05 16:50:39,496:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:54:02,904:INFO:home.log_manager:Request Started
+2022-02-05 16:54:02,906:INFO:home.log_manager:color:blue,style_name:64GB
+2022-02-05 16:54:02,907:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:54:02,909:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:54:02,910:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:54:02,911:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:54:02,915:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:54:02,916:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:54:02,917:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Blue'
+               and style_name = '64GB' 
+2022-02-05 16:54:02,926:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:54:02,927:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:54:02,929:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:54:43,908:INFO:home.log_manager:Request Started
+2022-02-05 16:54:43,910:INFO:home.log_manager:color:white,style_name:64GB
+2022-02-05 16:54:43,910:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:54:43,912:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:54:43,912:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:54:43,914:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:54:43,916:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:54:43,917:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:54:43,918:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'White'
+               and style_name = '64GB' 
+2022-02-05 16:54:43,922:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:54:43,922:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:54:43,929:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:55:19,032:INFO:home.log_manager:Request Started
+2022-02-05 16:55:19,033:INFO:home.log_manager:color:yellow,style_name:64GB
+2022-02-05 16:55:19,034:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:55:19,035:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:55:19,036:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:55:19,037:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:55:19,039:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:55:19,039:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:55:19,039:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Yellow'
+               and style_name = '64GB' 
+2022-02-05 16:55:19,047:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:55:19,049:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:55:19,049:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:55:27,526:INFO:home.log_manager:Request Started
+2022-02-05 16:55:27,528:INFO:home.log_manager:color:yellow,style_name:128GB
+2022-02-05 16:55:27,528:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:55:27,529:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:55:27,530:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:55:27,530:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:55:27,532:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:55:27,532:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:55:27,533:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Yellow'
+               and style_name = '128GB' 
+2022-02-05 16:55:27,537:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:55:27,537:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:55:27,538:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:55:34,406:INFO:home.log_manager:Request Started
+2022-02-05 16:55:34,407:INFO:home.log_manager:color:yellow,style_name:128gb
+2022-02-05 16:55:34,408:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:55:34,409:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:55:34,410:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:55:34,410:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:55:34,413:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:55:34,414:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:55:34,415:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Yellow'
+               and style_name = '128gb' 
+2022-02-05 16:55:34,419:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:55:34,422:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:55:34,423:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:55:40,671:INFO:home.log_manager:Request Started
+2022-02-05 16:55:40,672:INFO:home.log_manager:color:black,style_name:128gb
+2022-02-05 16:55:40,672:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:55:40,673:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:55:40,673:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:55:40,674:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:55:40,675:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:55:40,676:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:55:40,676:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Black'
+               and style_name = '128gb' 
+2022-02-05 16:55:40,681:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:55:40,682:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:55:40,682:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:56:24,562:INFO:home.log_manager:Request Started
+2022-02-05 16:56:24,565:INFO:home.log_manager:color:black,style_name:128gb
+2022-02-05 16:56:24,566:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:56:24,567:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:56:24,567:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:56:24,568:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:56:24,570:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:56:24,571:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:56:24,572:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = 'Black'
+               and style_name = '128GB' 
+2022-02-05 16:56:24,582:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:56:24,583:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:56:24,584:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
+2022-02-05 16:57:53,351:INFO:home.log_manager:Request Started
+2022-02-05 16:57:53,352:INFO:home.log_manager:color:RED,style_name:64gb
+2022-02-05 16:57:53,353:INFO:home.log_manager:Checking if any parameter is missing
+2022-02-05 16:57:53,353:INFO:home.log_manager:found:False,out:{}
+2022-02-05 16:57:53,354:INFO:home.log_manager:fetching reviews from DB
+2022-02-05 16:57:53,355:INFO:home.log_manager:Connecting to DB
+2022-02-05 16:57:53,356:INFO:home.log_manager:Creating a cursor
+2022-02-05 16:57:53,357:INFO:home.log_manager:Selecting data from DB
+2022-02-05 16:57:53,357:INFO:home.log_manager:SQL Query: SELECT * FROM review_data
+               WHERE color = '(PRODUCT)RED'
+               and style_name = '64GB' 
+2022-02-05 16:57:53,364:INFO:home.log_manager:Disconnecting to DB
+2022-02-05 16:57:53,366:INFO:home.log_manager:Reviews fetched
+2022-02-05 16:57:53,366:INFO:home.log_manager:Request Completed with Status:200 and Message:OK
